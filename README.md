@@ -1,4 +1,4 @@
-## Impossible to Win Against AI
+## Chess Game
 
 ![image](https://github.com/user-attachments/assets/acf25515-f895-4177-a39f-f51c36571efc)
 
