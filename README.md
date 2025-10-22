@@ -16,3 +16,6 @@ You can see that the moves made in the side screen.
 
 AI wins with a checkmate.
 
+## Collaboration
+
+This project was developed in collaboration with my teammate @qanaryq.
